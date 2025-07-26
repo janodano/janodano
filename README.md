@@ -8,13 +8,7 @@ const client = new +821044699940 OpenAI(Jeonghwa74);
 
 const response = await client.responses.create({
     model: "gpt-4.1",
-    input: "Write a one-sentence bedtime story about a unicorn.",
-});
-
-console.log(response.output_text);
-
-
----https://djy977018@gmail.com./document/d/1SuJUuk5TyNFIz9FKRsA6UzP6DG3h__dgrlZc6EN1L5M/edit?usp=drivesdk
+    input: "Write a one-sentence bedtime story 
 
 ## 🏡 우리의 자원, 우리의 기록.창조의 씨앗을 심었습니다. 자원의 마당 오신것을 축하드립니다 🎉 과학의 공간  . 완벽한 수학적 비율이 과학적 코드스페이스 낳는곳 .터미널 확장 프로그램 앱 개발 및 환경 데이터 확장 연결 리눅스기반의 아파치 라이선스 소프트웨어 2.0 적용 카피라이터 양정화. 추후 다시 공지하겠습니다. 
 
