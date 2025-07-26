@@ -2,7 +2,7 @@ github/workflows/janodano
 
 name: janodano 
 
-on:
+
   push:
     branches: [ issue ]
   pull_request:
