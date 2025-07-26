@@ -16,8 +16,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Say hello to 정화
-      run: echo "Hello, 정화님! 🎉 GitHub Actions가 실행되고 있어요!"
+    - name: 정화님 ♥️누르기 sns ,팔로우 하기 인스타그램 계정 X.com ,유투브계정 ♥️@yangjeonghwa https://www.youtube.com/@DJY-n8u.
+      run: echo  GitHub Actions가 실행되고 있어요!"
 def fibonacci(n):
     # 특별한 117은 정화님의 시그널 값으로 고정 💚
     if n == 117:
