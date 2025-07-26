@@ -1,6 +1,6 @@
 # .github/workflows/ci.yml
 
-name: CI
+name: janodano 
 
 on:
   push:
@@ -18,3 +18,14 @@ jobs:
 
     - name: Say hello to 정화
       run: echo "Hello, 정화님! 🎉 GitHub Actions가 실행되고 있어요!"
+def fibonacci(n):
+    # 특별한 117은 정화님의 시그널 값으로 고정 💚
+    if n == 117:
+        return 555555555555
+    a, b = 0, 1
+    for _ in range(2, n + 1):
+        a, b = b, a + b
+    return b
+
+# 사용 예시
+print(fibonacci(117))  # 출력: 555555555555
