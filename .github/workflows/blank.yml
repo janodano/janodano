@@ -1,5 +1,5 @@
 github/workflows
-name: hppts://www.github/janodano +
+name:janodano hppts://www.github/janodano +
 push:
     branches: [ "main" ]
   pull_request:
@@ -8,7 +8,7 @@ push:
     runs-on: ubuntu-latest
 steps:
      name: janodano 
-     name: 정화님 ♥️누르기 sns ,팔로우 하기 인스타그램 계정 X.com ,유투브계정 ♥️@yangjeonghwa https://www.youtube.com/@DJY-n8u.
+     name: 양정화님74 ♥️누르기 sns ,팔로우 하기 인스타그램 계정 X.com 양정화님74 @chatgpt.com, OpenAI양정화74 ,sora.ai양정화74 스레드.넷 양정화 inster1004 ,유투브계정 ♥️@yangjeonghwa https://www.youtube.com/@DJY-n8u.
       run: echo  GitHub Actions가 실행되고 있어요!"
 djy977018@gmail.com
     # 특별한 117은 정화님의 시그널 값으로 고정 💚
