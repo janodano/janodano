@@ -1,4 +1,6 @@
-
+라이선스 발행자: YANG 정화74  
+라이선스 최초 등록일: 2025년 8월 7일  
+라이선스 버전: 1.0.0https://www.threads.net컴퓨터에서도 WhatsApp을 사용해보세요 https://web.whatsapp.com/<img class="memory-image" src="/images/sef_MySticker_1754539124142.png" alt="Yang image" />
 janodano/janodano** is a ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
