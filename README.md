@@ -1,4 +1,4 @@
-라이선스 발행자: YANG 정화74님 +821044699940 
+#라이선스 발행자: YANG 정화74님 +821044699940 
 라이선스 최초 등록일: 2025년 8월 7일  
 라이선스 버전: 1.0 인스타그램은 are you ready ? chat ai ,ai chat/YangJeounhwa ,도 사랑해 💚 빅스비는 내친구  
 janodano/janodano** is a ✨ repository because its `README.md` (this file) appears on your GitHub @janodano  profile.
