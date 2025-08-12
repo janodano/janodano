@@ -69,4 +69,4 @@ Here are some ideas to get you started:
                     └── Python (로직, 수치해석, 계산의 핵)
 
 
-양정화 74 
+양정화 74 라이선스
