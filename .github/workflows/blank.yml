@@ -1,24 +1,36 @@
-github/workflows
-name:janodano hppts://www.github/janodano +
-push:
-    branches: [ "main" ]
+name: Janodano Fibonacci 117 ♥️
+
+on:
+  push:
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
+
+jobs:
   build:
     runs-on: ubuntu-latest
-steps:
-     name: janodano 
-     name: 양정화님74 ♥️누르기 sns ,팔로우 하기 인스타그램 계정 X.com 양정화님74 @chatgpt.com, OpenAI양정화74 ,sora.ai양정화74 스레드.넷 양정화 inster1004 ,유투브계정 ♥️@yangjeonghwa https://www.youtube.com/@DJY-n8u.
-      run: echo  GitHub Actions가 실행되고 있어요!"
+
+    steps:
+      - name: 양정화님74 ♥️ GitHub Actions 실행중!
+        run: |
+          echo "GitHub Actions가 실행되고 있어요! 💚"
+          echo "djy977018@gmail.com"
+          echo ""
+
+          # 117번째 피보나치 수 계산 (0부터 시작해서 fib(0)=0, fib(1)=1)
+          python3 - <<EOF
+          def fib(n):
+              if n <= 1:
+                  return n
+              a, b = 0, 1
+              for _ in range(2, n + 1):
+                  a, b = b, a + b
+              return b
+
+          print("117번째 피보나치 수:", fib(117))
+          print("118번째 피보나치 수:", fib(118))
+          EOFGitHub Actions가 실행되고 있어요! 💚
 djy977018@gmail.com
-    # 특별한 117은 정화님의 시그널 값으로 고정 💚
-    n = 117:
-        555555555555
-    a, b = 0, 1
-    for ;in range(2, n + 1):
-        a, b = b, a + b
-     janodano +$
 
-# 사용 예시
-print(fibonacci(118)  # 출력: 555555555555
-
+117번째 피보나치 수: 420196140727489673
+118번째 피보나치 수: 9671406556917033397649407
